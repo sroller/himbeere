@@ -2,7 +2,7 @@
 #
 # basic PI setup
 
-# curl -o https://github.com/sroller/himbeere/setup_himbeere | bash
+# curl https://raw.githubusercontent.com/sroller/himbeere/main/setup_himbeere | bash
 
 set -x
 
